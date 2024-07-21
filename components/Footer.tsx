@@ -20,7 +20,7 @@ const Footer = () => {
           Excited to embark on new challenges and contribute to <span className="text-purple">your</span> projects.
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out today and let's discuss how I can be a valuable addition to your team.
+          Reach out today and let&apos;s discuss how I can be a valuable addition to your team.
         </p>
         <a href="mailto:aryanjotwani003@gmail.com">
           <MagicButton
