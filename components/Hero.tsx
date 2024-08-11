@@ -36,12 +36,12 @@ const Hero = () => {
           </p>
 
           <TextGenerateEffect
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Hello I&#39;m Aryan Jotwani, a Software Developer"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&#39;m Aryan, a Software Developer based in India.
+            Turning Ideas into Meaningful User Experiences
           </p>
 
           <a href="#about">
